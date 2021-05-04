@@ -1,0 +1,1 @@
+SELECT * FROM districts, provinces, regencies, villages;
